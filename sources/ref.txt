@@ -1,0 +1,14 @@
+SOURCE #01:     WorldClim.org
+URL:            https://www.worldclim.org/data/monthlywth.html
+DESCRIPTION:    Precipitation Monthly Data (1960-2018).
+The spatial resolution is 2.5 minutes (~21 km2). Each download is a “zip” file containing 120 GeoTiff (.tif) files, for each month of the year (January is 1; December is 12), for a 10 year period.
+
+SOURCE #02:     WorldClim.org
+URL:            https://www.worldclim.org/data/monthlywth.html
+DESCRIPTION:    Maximum Temperature Monthly Data (1960-2018).
+The spatial resolution is 2.5 minutes (~21 km2). Each download is a “zip” file containing 120 GeoTiff (.tif) files, for each month of the year (January is 1; December is 12), for a 10 year period.
+
+SOURCE #03:     WorldClim.org
+URL:            https://www.worldclim.org/data/monthlywth.html
+DESCRIPTION:    Mminumum Temperature Monthly Data (1960-2018).
+The spatial resolution is 2.5 minutes (~21 km2). Each download is a “zip” file containing 120 GeoTiff (.tif) files, for each month of the year (January is 1; December is 12), for a 10 year period.
