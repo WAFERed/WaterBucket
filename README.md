@@ -38,5 +38,5 @@ For already prepared sources,
 
 ## Contributing
 To contribute, fork the project or create a pull request. Alternatively, contact us using any of the below methods,
-- Email Address: : <a href = "mailto: email.wafer@gmail.com">email.wafer@gmail.com</a>
+- Email Address: <a href = "mailto: email.wafer@gmail.com">email.wafer@gmail.com</a>
 - Website: [projectwafer.com](https://www.projectwafer.com) 
